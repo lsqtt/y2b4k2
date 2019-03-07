@@ -1,8 +1,8 @@
 <?php
 define('APIKEY', 'AIzaSyAlmsVKJzRAdY5Vr73bKdZNWm4sQvo_Dlw');
 define('GJ_CODE', 'HK');
-define('SITE_NAME', 'ytbhh');
-define('TITLENAME', 'ytbhh');
+define('SITE_NAME', '优管');
+define('TITLENAME', '优管');
 define('EN2DEKEY', '32123wwerwertgfdgdsall');
 define('EMAIL', 'yibingcheng56@gmail.com');
 define('NAME', 'admin92');
