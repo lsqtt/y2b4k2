@@ -1,5 +1,5 @@
 <?php
-define('APIKEY', 'AIzaSyAozQAVYUzAIItHhzhJ_Kkx-ceIdixoTT8');
+define('APIKEY', 'AIzaSyAlmsVKJzRAdY5Vr73bKdZNWm4sQvo_Dlw');
 define('GJ_CODE', 'HK');
 define('SITE_NAME', '优管');
 define('TITLENAME', '优管');
